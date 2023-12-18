@@ -1,1 +1,1 @@
-# data_anaylsis_project_1
+# 채용관련 데이터 분석 사전과제
